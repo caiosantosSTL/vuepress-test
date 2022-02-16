@@ -1,0 +1,19 @@
+{
+  "name": "myunesma",
+  "version": "0.0.1",
+  "description": "teste",
+  "main": "index.js",
+  "authors": {
+    "name": "caio santos",
+    "email": ""
+  },
+  "repository": "/myunesma",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
